@@ -8,7 +8,7 @@
   A modern Steam Lua, plugin, manifest, and developer utility.
 </p>
 
- ## THIS PROJECT HAS BEEN DEPRACATED SO PLEASE MOVE TO TURNIP WE ARE SORRY TO GO BUT WE HAVE BIG PLANS IN THE FUTURE THANKS FOR USING GLUATOOLS LINK TO TURNIP: https://github.com/IzzoYT/Turnip-loader
+ ## THIS PROJECT HAS BEEN DEPRACATED SO PLEASE MOVE TO TURNIP WE ARE SORRY TO GO BUT WE HAVE BIG PLANS IN THE FUTURE THANKS FOR USING GLUATOOLS LINK TO TURNIP: https://github.com/IzzoYT/Turnip-loader TURNIP IS AN ALTRNITAVE TO GluaTools and we are rebranding to (ROOTWARE) WE ARE PLANNING TO PULL MORE TURNIPS OUT OF THE GARDEN SO STAY TUNED!.       we will keep this repo open but as read only if you want to use the first version of lua tools we will add archives of the community edition and the studio edition so dont worry
 # GLuaTools
 
 GLuaTools is a community-driven fork of **LuaTools** focused on improving the Steam Lua and manifest management experience with additional features, fixes, customization, and quality-of-life improvements.

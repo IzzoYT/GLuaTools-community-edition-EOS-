@@ -120,6 +120,3 @@ See the `LICENSE` file for more information.
 
 ---
 
-### More GLuaTools sucker- i mean versions down below
-
-https://github.com/IzzoYT/GluaTools-studio-edition
